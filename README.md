@@ -1,0 +1,3 @@
+Download Link: https://assignmentchef.com/product/solved-solvedlab-01
+<br>
+Objective:This lab is to introduce you to using the JDK in Window and UNIX environments and to help youbecome familiar with some of the basic concept in Java.Overview:In this lab you are to write a simple Java program to prompt the user for two 3-digit integers and print theproduct of the two integers in the following form. There is a sample program in directory~wang/sample20.123X 246——————-738492246——————-30258Activities:1. In Window environmenta. Use notepad/notepad++ to edit and modify your program.b. Compile and execute your program in Command Prompt or DOS window.2. In UNIX environmenta. Use pico to edit and modify your program.b. Compile and execute your program from the UNIX command line.
